@@ -1,5 +1,5 @@
 import Search from "./components/Search";
-import Result from "./components/Result/Result";
+import Result from "./components/Result/Container";
 import useSearch from "./hooks/useSearch";
 import styled from "@emotion/styled";
 

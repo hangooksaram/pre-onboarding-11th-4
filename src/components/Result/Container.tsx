@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 import { SearchResult } from "../../..";
 
-import ResultList, { List } from "./ResultList";
+import ResultList, { List } from "./List";
 
 const Result = ({
   searchQuery,
